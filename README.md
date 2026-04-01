@@ -88,5 +88,3 @@ Includes:
 
 Copyright © 2026 **Nemetix**. All rights reserved.
 
-This project is proprietary and confidential. Unauthorized copying, distribution, or use of this software via any medium is strictly prohibited. This software is not open-source and is the exclusive property of Nemetix.
-
